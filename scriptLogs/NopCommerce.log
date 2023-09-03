@@ -1,0 +1,40 @@
+[INFO ] [2023-08-31 10:31:35,372] OS name = Windows 11
+[INFO ] [2023-08-31 10:31:35,372] Driver instance name = chromedriver: chrome on windows (bffc1c82addb63edd56eeb06ebae3ae1)
+[INFO ] [2023-08-31 10:32:35,610] OS name = Windows 11
+[INFO ] [2023-08-31 10:32:35,611] Driver instance name = chromedriver: chrome on windows (a172f232b680e697eeb5fb55d0b6a3a9)
+[INFO ] [2023-08-31 10:34:00,802] OS name = Windows 11
+[INFO ] [2023-08-31 10:34:00,803] Driver instance name = chromedriver: chrome on windows (8b760088c3cd79b1d3f40f08706e5a74)
+[INFO ] [2023-08-31 10:36:06,813] OS name = Windows 11
+[INFO ] [2023-08-31 10:36:06,813] Driver instance name = chromedriver: chrome on windows (51c194cc06b1fd4ef2f4ff89dbf8ee3c)
+[INFO ] [2023-08-31 10:47:56,575] OS name = Windows 11
+[INFO ] [2023-08-31 10:47:56,577] Driver instance name = chromedriver: chrome on windows (6efc9d0f05e6c29b805890f6e6492ec4)
+[INFO ] [2023-08-31 10:59:01,195] OS name = Windows 11
+[INFO ] [2023-08-31 10:59:01,197] Driver instance name = chromedriver: chrome on windows (67409801a2321f331bf9987c67f44e8f)
+[INFO ] [2023-08-31 14:29:24,210] OS name = Windows 11
+[INFO ] [2023-08-31 14:29:24,210] Driver instance name = chromedriver: chrome on windows (3846dd540531d854784f5057e79b608f)
+[INFO ] [2023-08-31 14:29:24,226] disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=116.0.5845.112)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-C6C96BJN', ip: '192.168.1.105', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.112, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57389}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3846dd540531d854784f5057e79b608f
+[INFO ] [2023-08-31 14:30:32,577] OS name = Windows 11
+[INFO ] [2023-08-31 14:30:32,577] Driver instance name = chromedriver: chrome on windows (ae18146d684c35ab9cff977f59f636db)
+[INFO ] [2023-08-31 14:38:11,103] OS name = Windows 11
+[INFO ] [2023-08-31 14:38:11,104] Driver instance name = chromedriver: chrome on windows (2cb902396b435cf83132b02970852978)
+[INFO ] [2023-08-31 14:38:11,116] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.112)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-C6C96BJN', ip: '192.168.1.105', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.112, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57540}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2cb902396b435cf83132b02970852978
+[INFO ] [2023-08-31 14:39:52,773] OS name = Windows 11
+[INFO ] [2023-08-31 14:39:52,774] Driver instance name = chromedriver: chrome on windows (10f176ecf62bc443dded7491cdf3a6e0)
+[INFO ] [2023-08-31 15:11:48,626] OS name = Windows 11
+[INFO ] [2023-08-31 15:11:48,627] Driver instance name = chromedriver: chrome on windows (ea66e41b33da0275195cb973952204a4)
+[INFO ] [2023-08-31 15:15:32,239] OS name = Windows 11
+[INFO ] [2023-08-31 15:15:32,240] Driver instance name = chromedriver: chrome on windows (40526c7924d39e9f2d5be41629af681b)
